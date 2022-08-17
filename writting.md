@@ -1,4 +1,4 @@
-# WRITTING
+# 404 WRITTING
 
 很抱歉，该部分内容正在完善中，点击[此处](https://luopzh.github.io/University-R)回到主页
 
