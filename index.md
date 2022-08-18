@@ -26,7 +26,7 @@
 
 ## 推广
 
-[交友区](https://luopzh.github.io/University-R/pages/makefriends)（框架已完成，不知道为啥打不开，还在处理）
+[交友区](https://luopzh.github.io/University-R/pages/makefriends)（框架已完成）
 
 [福来中国物产店](https://luopzh.github.io/University-R/pages/fulai)（已完成，看到了的话可以结一下推广费❤️）
 
@@ -34,4 +34,4 @@
 
 ------
 
->如果你想提交自己的心得，生活窍门，或是在网页上发现任何问题欢迎联系站长。
+>如果你想提交自己的心得，生活窍门，或是在网页上发现任何问题欢迎[联系站长](https://luopzh.github.io/University-R/pages/makefriends#001-%E7%AB%99%E9%95%BF)。
