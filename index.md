@@ -31,3 +31,7 @@
 [福来中国物产店](https://luopzh.github.io/University-R/pages/fulai)（已完成，看到了的话可以结一下推广费❤️）
 
 [站长私人理发](https://luopzh.github.io/University-R/pages/lifa)（手打中，想看可以去催催站长）
+
+------
+
+>如果你想提交自己的心得，生活窍门，或是在网页上发现任何问题欢迎联系站长。
