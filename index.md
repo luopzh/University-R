@@ -24,10 +24,10 @@
 
 [往年小テスト答案](https://luopzh.github.io/University-R/writting)
 
-## [交友区](https://luopzh.github.io/University-R/pages/makefriends)
-
 ## 推广
 
-[福来中国物产店](https://luopzh.github.io/University-R/pages/fulai)（看到了的话可以结一下推广费）
+[交友区](https://luopzh.github.io/University-R/pages/makefriends)
+
+[福来中国物产店](https://luopzh.github.io/University-R/pages/fulai)（看到了的话可以结一下推广费❤️）
 
 [站长私人理发](https://luopzh.github.io/University-R/pages/lifa)
