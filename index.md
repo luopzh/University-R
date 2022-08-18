@@ -23,3 +23,6 @@
 ## 资料
 
 [往年小テスト答案](https://luopzh.github.io/University-R/writting)
+
+## [交友](https://luopzh.github.io/University-R/pages/makefriends)
+
