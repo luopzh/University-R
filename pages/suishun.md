@@ -12,7 +12,7 @@
 
 ## 地址
 
-[300 Shinhamacho, Kusatsu, Shiga 525-0067](https://goo.gl/maps/JuX8atRNDG9qCntF9
+[300 Shinhamacho, Kusatsu, Shiga 525-0067](https://goo.gl/maps/JuX8atRNDG9qCntF9)
 
 ## 电话
 
