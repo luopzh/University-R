@@ -20,7 +20,7 @@
 
 ## 官网
 
-(suisyun.jp)
+(https://suisyun.jp/kusatsu/)
 
 ## 价格
 
