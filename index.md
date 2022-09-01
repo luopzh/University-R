@@ -6,6 +6,10 @@
 
 [Manaba+R是个什么东西？](https://luopzh.github.io/University-R/writting)（招募作者中）
 
+## 常用链接
+
+[学年历](http://www.ritsumei.ac.jp/profile/info/calendar/)
+
 ## 日本生活
 
 [出行方式](https://luopzh.github.io/University-R/writting)（招募作者中）
