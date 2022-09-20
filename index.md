@@ -1,14 +1,16 @@
 # HomePage
 
+## 常用链接
+
+|[学年历](http://www.ritsumei.ac.jp/profile/info/calendar/)|[manaba+R](https://ct.ritsumei.ac.jp/ct/home)|[CAMPUS WEB](https://cw.ritsumei.ac.jp/campusweb/login.html)|
+|:----:|:----:|:----:|
+|[Latex公式](https://www.latexlive.com/home)|[Moji辞書](https://www.mojidict.com)||
+
 ## 初次见面，新生须知～
 
 [你需要知道的选课](https://luopzh.github.io/University-R/writting)（招募作者中）
 
 [Manaba+R是个什么东西？](https://luopzh.github.io/University-R/writting)（招募作者中）
-
-## 常用链接
-
-[学年历](http://www.ritsumei.ac.jp/profile/info/calendar/)
 
 ## 日本生活
 
@@ -30,11 +32,11 @@
 
 ## 推广
 
-[交友区](https://luopzh.github.io/University-R/pages/makefriends)（框架已完成）
+[交友区](https://luopzh.github.io/University-R/pages/makefriends)
 
-[福来中国物产店](https://luopzh.github.io/University-R/pages/fulai)（已完成，看到了的话可以结一下推广费❤️）
+[福来中国物产店](https://luopzh.github.io/University-R/pages/fulai)
 
-[站长私人理发](https://luopzh.github.io/University-R/pages/lifa)（已完成，欢迎光临～）
+[站长私人理发](https://luopzh.github.io/University-R/pages/lifa)（无限期停止接客）
 
 ------
 
