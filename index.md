@@ -4,7 +4,8 @@
 
 |[学年历](http://www.ritsumei.ac.jp/profile/info/calendar/)|[manaba+R](https://ct.ritsumei.ac.jp/ct/home)|[CAMPUS WEB](https://cw.ritsumei.ac.jp/campusweb/login.html)|
 |:----:|:----:|:----:|
-|[Latex公式](https://www.latexlive.com/home)|[Moji辞書](https://www.mojidict.com)||
+|[Latex公式](https://www.latexlive.com/home)|[Moji辞書](https://www.mojidict.com)|[Overleaf](https://www.overleaf.com/)|
+|[Github](https://github.com/)|||
 
 ## 初次见面，新生须知～
 
