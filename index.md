@@ -37,7 +37,7 @@
 
 [福来中国物产店](https://luopzh.github.io/University-R/pages/fulai)
 
-[~~站长私人理发~~](https://luopzh.github.io/University-R/pages/lifa)（无限期停止营业）
+[~~站长私人理发~~](https://luopzh.github.io/University-R/pages/lifa)（暂停公开营业）
 
 ------
 
