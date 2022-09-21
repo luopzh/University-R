@@ -40,7 +40,11 @@
 
 快捷跳转：
 
-[BKC体育館・ジム](https://www.ritsumei.ac.jp/lifecareer/activity/facility/gym/bkc/)        [讲座预约](https://select-type.com/rsv/?id=St4OYe3jA70)       [体育馆利用](https://select-type.com/rsv/?id=KatPteH9vEg)
+[BKC体育館・ジム](https://www.ritsumei.ac.jp/lifecareer/activity/facility/gym/bkc/)     
+
+[讲座预约](https://select-type.com/rsv/?id=St4OYe3jA70)       
+
+[健身房利用预约](https://select-type.com/rsv/?id=KatPteH9vEg)
 
 
 
@@ -56,7 +60,9 @@
 
 快捷跳转：
 
-[BKCスポーツ健康コモンズ](https://coubic.com/rits_spocommo_online#pageContent)        [预约](https://coubic.com/rits_spocommo_online/booking_pages#pageContent)
+[BKCスポーツ健康コモンズ](https://coubic.com/rits_spocommo_online#pageContent)        
+
+[讲座预约/利用预约](https://coubic.com/rits_spocommo_online/booking_pages#pageContent)
 
 
 
