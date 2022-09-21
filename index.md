@@ -2,6 +2,8 @@
 
 ## 常用链接
 
+>鼠标中键点击可以在新标签页打开网页
+
 |[学年历](http://www.ritsumei.ac.jp/profile/info/calendar/)|[manaba+R](https://ct.ritsumei.ac.jp/ct/home)|[CAMPUS WEB](https://cw.ritsumei.ac.jp/campusweb/login.html)|
 |:----:|:----:|:----:|
 |[Latex公式](https://www.latexlive.com/home)|[Moji辞書](https://www.mojidict.com)|[Overleaf](https://www.overleaf.com/)|
@@ -13,7 +15,7 @@
 
 [Manaba+R是个什么东西？](https://luopzh.github.io/University-R/writting)（招募作者中）
 
-[校内生活](https://luopzh.github.io/University-R/writting) (手打中。。。)
+[校内生活](https://luopzh.github.io/University-R/lifeinschool) (手打中。。。)
 
 ## 日本生活
 
