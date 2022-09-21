@@ -8,7 +8,9 @@
 
 分区消费 容易混乱
 
-距离学校所在地偏远（和物产店差不多
+距离学校所在地偏远（在物产店附近
+
+不提供免费的浴巾毛巾，300日元租一次
 
 ## 地址
 
@@ -20,8 +22,8 @@
 
 ## 官网
 
-(https://suisyun.jp/kusatsu/)
+https://suisyun.jp/kusatsu/
 
 ## 价格
 
-(https://suisyun.jp/kusatsu/goriyou.html)
+https://suisyun.jp/kusatsu/goriyou.html
