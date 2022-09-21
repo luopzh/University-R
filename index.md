@@ -15,7 +15,7 @@
 
 [Manaba+R是个什么东西？](https://luopzh.github.io/University-R/writting)（招募作者中）
 
-[校内生活](https://luopzh.github.io/University-R/lifeinschool) (手打中。。。)
+[校内生活](https://luopzh.github.io/University-R/pages/lifeinschool) 
 
 ## 日本生活
 
