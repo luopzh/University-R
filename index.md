@@ -13,6 +13,8 @@
 
 [Manaba+R是个什么东西？](https://luopzh.github.io/University-R/writting)（招募作者中）
 
+[校内生活](https://luopzh.github.io/University-R/writting) (手打中。。。)
+
 ## 日本生活
 
 [出行方式](https://luopzh.github.io/University-R/writting)（招募作者中）
