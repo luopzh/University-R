@@ -2,7 +2,7 @@
 
 ## 常用链接
 
->鼠标中键点击可以在新标签页打开网页
+>鼠标中键点击可以在新标签页打开网页，左键是在当前页面
 
 |[学年历](http://www.ritsumei.ac.jp/profile/info/calendar/)|[manaba+R](https://ct.ritsumei.ac.jp/ct/home)|[CAMPUS WEB](https://cw.ritsumei.ac.jp/campusweb/login.html)|
 |:----:|:----:|:----:|
@@ -20,6 +20,8 @@
 ## 日本生活
 
 [出行方式](https://luopzh.github.io/University-R/writting)（招募作者中）
+
+- [外免切替](https://luopzh.github.io/University-R/pages/waimianqieti)：把中国驾照换成日本驾照
 
 [购物省钱攻略](https://luopzh.github.io/University-R/writting)（招募作者中）
 
