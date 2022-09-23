@@ -10,7 +10,7 @@
 
 ## Step1：日语翻译件
 
-需要一个驾照的日语翻译件，一般是找日本自动车联盟JAF（详见[外国運転免許証の日本語翻訳文について | JAF](https://jaf.or.jp/common/visitor-procedures/switch-to-japanese-license)）进行翻译。
+需要一个驾照的日语翻译件，一般是找日本自动车联盟JAF（详见[外国運転免許証の日本語翻訳文について｜JAF](https://jaf.or.jp/common/visitor-procedures/switch-to-japanese-license)）进行翻译。
 
 在网页中找到申请书下载打印填写，加彩印驾照首页和副页，加4000日元到邮局用現金書留方式邮寄给JAF大阪支部
 
