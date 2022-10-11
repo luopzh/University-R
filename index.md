@@ -37,11 +37,13 @@
 
 [往年小テスト答案](https://luopzh.github.io/University-R/writting)（思考整理方式中）
 
-## 推广
+## 草津好去处
 
 [交友区](https://luopzh.github.io/University-R/pages/makefriends)
 
 [福来中国物产店](https://luopzh.github.io/University-R/pages/fulai)
+
+[水春温泉](https://luopzh.github.io/University-R/pages/suishun)
 
 [~~站长私人理发~~](https://luopzh.github.io/University-R/pages/lifa)（暂停公开营业）
 
