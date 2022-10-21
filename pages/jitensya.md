@@ -40,7 +40,7 @@
 
 ### あ-通学自転車登録申請書
 
-查看并下载「[通学自転車登録申請書](https://luopzh.github.io/University-R/files/200827BicycleCommutingRegistrationApplication.pdf)」，**双面打印！**，随后按照下方示例填写正面，背面签个字就好。
+查看并下载「[通学自転車登録申請書](https://luopzh.github.io/University-R/files/200827BicycleCommutingRegistrationApplication.pdf)」，**双面打印！**，随后按照下方示例填写正面的黑色加粗框内的内容，背面签个字就好。
 
 ⚠️注意，从**视频结束下载的pdf**是将第一页和第三页双面打印，第二页是示例页！
 
@@ -68,8 +68,14 @@
 
 ## Step4.将所有材料提交
 
+在完成上述所有步骤后，将自行车停去停车场，带着这些材料来到[コアステーション](https://maps.app.goo.gl/BzLzReycqkDTiKbn7?g_st=ic)１Fキャンパス管理室（周一到周五9:00-17:30）
 
+在进门时向左一瞥就能看见了，离门很近。
 
-![image-20221021125051842](pictures/image-20221021125051842.png)
+![image-20221021143644741](pictures/image-20221021143644741.png)
 
-![image-20221021125145919](pictures/image-20221021125145919.png)
+跟工作人员说「自転車を登録」，并把材料交给ta，等待ta将资料收录，就可以带着一张**标有失效年份的贴纸**和一张**保护贴纸的塑料膜**离开。最后别忘了「ありがとうございます～」。
+
+## 以上です。
+
+将贴纸贴在自行车的后部
