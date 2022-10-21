@@ -17,6 +17,8 @@
 
 [校内生活](https://luopzh.github.io/University-R/pages/lifeinschool) 
 
+[学校自行车放置许可](https://luopzh.github.io/University-R/pages/jitensya)
+
 ## 日本生活
 
 [出行方式](https://luopzh.github.io/University-R/writting)（招募作者中）
