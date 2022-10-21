@@ -16,7 +16,7 @@
 
 [线上讲座（录播）](https://www.pip-maker.com/?view=4jxm)预计时间15min，听完讲座并回答三个问题后，可以下载「通学自転車登録申請書」。
 
-我个人建议看一下，但如果实在没兴趣**也可以直接跳过Step1**。
+我个人建议看一下，但如果实在没兴趣**也可以直接[跳过Step1](https://luopzh.github.io/University-R/pages/jitensya#Step2.%E5%87%86%E5%A4%87%E6%9D%90%E6%96%99)**。
 
 进入网址点击开始播放；
 
@@ -26,9 +26,19 @@
 
 <img src="pictures/image-20221021125724185.png" alt="image-20221021125724185" style="zoom:15%;" /><img src="pictures/image-20221021125753449.png" alt="image-20221021125753449" style="zoom:15%;" /><img src="pictures/image-20221021133306493.png" alt="image-20221021133306493" style="zoom:15%;" />
 
+讲座至此结束。
 
+## Step2.准备材料
 
-在这里[通学自転車登録申請書](https://luopzh.github.io/University-R/files/200827BicycleCommutingRegistrationApplication.pdf)打开并下载，
+要准备的材料有：
+
+- [通学自転車登録申請書](https://luopzh.github.io/University-R/files/200827BicycleCommutingRegistrationApplication.pdf)
+
+- 学生证
+
+- 保险证明
+
+### あ-通学自転車登録申請書
 
 
 
