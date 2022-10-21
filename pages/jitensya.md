@@ -40,6 +40,24 @@
 
 ### あ-通学自転車登録申請書
 
+查看并下载「[通学自転車登録申請書](https://luopzh.github.io/University-R/files/200827BicycleCommutingRegistrationApplication.pdf)」，**双面打印！**，随后按照下方示例填写正面，背面签个字就好。
+
+⚠️注意，从**视频结束下载的pdf**是将第一页和第三页双面打印，第二页是示例页！
+
+![200827BicycleCommutingRegistrationApplication_页面_2](pictures/200827BicycleCommutingRegistrationApplication_page_2.jpg)
+
+### い-学生证
+
+学生证还要我说么，不用复印，带着原件去。
+
+### う-保险证明
+
+一般买车的时候都会让你上保险，而且基本就是最大保额超过1亿日元的。
+
+将能证明你**给你的车上保险的收据**与能证明**这份保险最大保额超过1亿**的页面复印在一张A4纸上。
+
+如果没有保险可以去生协办一下。
+
 
 
 ![image-20221021125051842](pictures/image-20221021125051842.png)
