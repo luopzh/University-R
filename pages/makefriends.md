@@ -20,9 +20,7 @@
 
 联系方式：
 
-​	认识我的直接QQ联系就行
-
-​	立命馆邮箱：is0652hs@ed.ritsumei.ac.jp (时时会看，当QQ发就好)
+​	立命馆邮箱：is0652hs@ed.ritsumei.ac.jp
 
 主修语言：Python
 
