@@ -16,28 +16,24 @@
 
 [本卡——JCB カードW](https://www.jcb.co.jp/ordercard/kojin_card/os_card_w2.html?link_id=cojp_top_c4) <-- 申请渠道及官方信息
 
-![image-20231125002456005](pictures/image-20231125002456005.png)
+<img src="pictures/image-20231125002456005.png" alt="image-20231125002456005" style="zoom: 67%;" />
 
  以及他的孪生姐妹「JCBカードW plus L」据说有LADIES专属的福利，而且卡面更好看（我觉得）。有办理过的欢迎补充。 
 
-![image-20231125002625685](pictures/image-20231125002625685.png)
+<img src="pictures/image-20231125002625685.png" alt="image-20231125002625685" style="zoom:67%;" />
 
 
 
 ## 本卡权益
 
-所有下面的本卡都以W为例
+所有下面的卡都以「カードW」为例
 
 1. 单次还款累计1000，积2分。亚马逊网购1pt=3.5円、线下划款1pt=4円。 
 
-
-
-![image-20231125003014831](pictures/image-20231125003014831.png)
-
-
+<img src="pictures/image-20231125003014831.png" alt="image-20231125003014831" style="zoom: 33%;" />
 
 图里是JCB的一般情况所以为1pt。 
 
-2. 没有年费。 
-3. 给关西电力交电费燃气费目前双倍积分（2023-11-24）。
+2. 没有年费
+3. 给关西电力交电费燃气费目前双倍积分（距目前为止：2023-11-24）
 
