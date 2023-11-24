@@ -18,7 +18,7 @@
 
 ## 1.进入正题
 
-[本卡——JCB カードW](https://www.jcb.co.jp/ordercard/kojin_card/os_card_w2.html?link_id=cojp_top_c4) <-- 申请渠道及官方信息
+本卡——[JCB カードW](https://www.jcb.co.jp/ordercard/kojin_card/os_card_w2.html?link_id=cojp_top_c4) <-- 申请渠道及官方信息
 
 <img src="pictures/image-20231125002456005.png" alt="image-20231125002456005" style="zoom: 67%;" />
 
@@ -70,7 +70,7 @@
 
 ### 网申环节
 
-![image-20231125010524345](pictures/image-20231125010524345.png) ![image-20231125010338979](pictures/image-20231125010338979.png)
+![image-20231125010524345](pictures/image-20231125010524345.png) ![image-20231125010338979](pictures/image-20231125010338979.png)
 
 
 
@@ -112,7 +112,7 @@
 
 密码是你网申的时候设置的哦，没有忘记吧！
 
-<img src="pictures/image-20231125012003765.png" alt="image-20231125012003765" style="zoom:50%;" />
+<img src="pictures/image-20231125012003765.png" alt="image-20231125012003765" style="zoom:75%;" />
 
 按照时间顺序会给你发以上所描述的三封信息，
 
@@ -143,3 +143,5 @@
 最后给大家一个来自GPT3.5的忠告作为结束：
 
 ![image-20231125012632216](pictures/image-20231125012632216.png)
+
+手握四张信用卡的站长：请养成良好的消费习惯，避免提前消费，很少有信用卡能提前还款，所以请确保自己的还款账户中资金充足。需要注意，在毕业离日后，你的邮储账户哪怕不注销也会被冻结，请尽量避免离日前仍有欠款的情况出现，并在离日后再三确认是否已经取消所有自动订阅的账户。
